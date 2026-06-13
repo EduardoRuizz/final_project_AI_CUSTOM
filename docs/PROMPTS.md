@@ -1,6 +1,3 @@
-Aquí tienes el contenido completo y unificado para que simplemente lo copies, pegues en tu archivo PROMPTS.md y lo guardes. Este formato ya incluye las entradas anteriores y las dos que acabamos de redactar para cubrir toda la historia técnica.
-
-Markdown
 # Bitácora de Prompts — Registro de Uso de IA (CAG Project)
 
 ### Entrada 1: Reinicio Limpio del Proyecto y Planificación de Sprints
@@ -45,4 +42,4 @@ Markdown
 - **Prompt usado:** "redacta el readme y luego dime como publicar esos cambios", "¿qué requisitos me faltan?"
 - **Resumen de la respuesta recibida:** La IA generó una estructura de `README.md` profesional que detalla instalación, uso y documentación. Además, validó la lista de verificación (checklist) contra la rúbrica del curso para asegurar que la carpeta `docs/evidencias/` estuviera completa.
 - **Decisión humana tomada:** Adoptar la estructura sugerida para el `README.md` y formalizar el archivo `SCRUM.md` con los dos sprints realizados.
-- **Cambios realizados en el proyecto:** Creación y despliegue de `README.md`, `docs/SCRUM.md` y veri
+- **Cambios realizados en el proyecto:** Creación y despliegue de `README.md`, `docs/SCRUM.md` y verificación final de la estructura del repositorio en GitHub.
