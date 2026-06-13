@@ -1,0 +1,9 @@
+{
+    "luis": {
+        "audience": "explicar como principiante"
+    },
+    "ana": {
+        "project": "usa arquitectura monolitica moderna",
+        "preferred_style": "explicaciones con analogias"
+    }
+}
